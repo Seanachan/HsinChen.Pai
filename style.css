@@ -1,0 +1,7 @@
+/* myBack{width: 500px; height: 300px; overflow: hidden;} */
+body{background-repeat:no-repeat; background-position-y: 55%; background-position-x: center;
+background-size: 95%;}
+
+#myBack{position: absolute; top: -250px; margin-left: 100px;  }
+
+#Seanachan{color:whitesmoke; position: absolute; left: 15%;top: 10%}
